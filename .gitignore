@@ -1,0 +1,60 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.dbmdl
+*.jfm
+*.pfx
+*.publishsettings
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+project.lock.json
+project.fragment.lock.json
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Test results
+[Tt]est[Rr]esult*/
+*.trx
+[Cc]overage/
+*.coverage
+*.coveragexml
+
+# Build tool artifacts
+*.msbuild.log
+msbuild.binlog
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# User files
+*.rsuser
+*.pidb
+*.svclog
+
+# Publish output
+publish/
